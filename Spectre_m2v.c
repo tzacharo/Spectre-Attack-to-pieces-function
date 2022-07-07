@@ -1,3 +1,10 @@
+/* Anastasios (Tasos) Zacharopoulos
+* Informatics Department,
+* Aristotele University of Thessaloniki, Greece
+* Side Channel Attack (Spectre) Implementation on gem5 simulator  2022
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
