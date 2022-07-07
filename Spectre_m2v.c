@@ -17,7 +17,7 @@ uint8_t array2[256 * 512];
 int results[256];
 unsigned int junk = 0;
 
-char * secret = "allages pou kanme kai trexei test ";
+char * secret = "Changes we made to the code from auth.csd";
 
 uint8_t temp = 0; 
 
